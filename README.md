@@ -1,6 +1,4 @@
-# CSE-158-Final-Project
-
-Predicting clothes “fit or not” for customers
+# Predicting clothes “fit or not” for customers
 
 Team: Jiawei Zhou, Zijing Wang, Yayi Guo
 
